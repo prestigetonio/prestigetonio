@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prestigetonio.prestigetonio" />
 
 <p align="center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+  I'm+Tony+Fournales!;" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Tony+Fournales!;" />
 </p>
 
 <p align="center"><strong>A passionate developer from France 🇫🇷</strong></p>
