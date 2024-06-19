@@ -14,7 +14,7 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
