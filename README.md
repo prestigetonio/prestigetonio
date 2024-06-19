@@ -13,7 +13,7 @@
 </div>    
 <br/>
 <div>
-<h2 align="start">⚒️ Languages - Tools ⚒️</h2>
+<p align="start">⚒️ Languages - Tools ⚒️</p>
     <div align="center">
         <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
     </div>
