@@ -18,5 +18,4 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=prestigetonio&theme=prussian&border_radius=5&card_width=500)](https://git.io/streak-stats)
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=prussian&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
