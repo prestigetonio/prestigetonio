@@ -18,5 +18,5 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-[![GitHub Streak](https://streak-stats.demolab.com?user=PrestigeTonio&theme=prussian&border_radius=5&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=prestigetonio&theme=prussian&border_radius=5&card_width=500)](https://git.io/streak-stats)
 
