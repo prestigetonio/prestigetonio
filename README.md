@@ -5,13 +5,11 @@
 </p>
 
 <p align="center"><strong>A passionate developer from France 🇫🇷</strong></p>
-<br/>
 <div align="center">
 <a href="https://linkedin.com/in/tony-fournales" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
-</div>    
-<br/>
+</div>
 <H2 align="center">⚒️ Languages - Tools ⚒️</H2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
