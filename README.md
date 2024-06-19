@@ -11,8 +11,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 </a>
 </div>    
-<h2 align="center">⚒️ Languages - Tools ⚒️</h2>
 <br/>
+<h2 align="start">⚒️ Languages - Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
 </div>
