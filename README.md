@@ -13,7 +13,4 @@
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-prestigetonio.vercel.app/?user=prestigetonio&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br/>
-</div>
+
