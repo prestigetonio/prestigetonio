@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=prestigetonio.prestigetonio" />
 
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;+I'm+Tony+Fournales!;" />
-</h1>
+</p>
 
 <p align="center"><strong>A passionate developer from France 🇫🇷</strong></p>
 <br/>
