@@ -12,9 +12,11 @@
 </a>
 </div>    
 <br/>
+<div>
 <h2 align="start">⚒️ Languages - Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github" />
+    </div>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
