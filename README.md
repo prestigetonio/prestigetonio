@@ -12,12 +12,13 @@
 </div>
 
 <H2 align="center">⚒️ Languages - Tools ⚒️</H2>
-
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<div align="center">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 <br>
-<img src="https://skillicons.dev/icons?i=c,python,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,php" />
 <br>
-<img src="https://skillicons.dev/icons?i=vscode,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,github" />
+</div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
