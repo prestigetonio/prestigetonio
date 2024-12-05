@@ -12,12 +12,13 @@
 </div>
 
 <H2 align="center">⚒️ Languages - Tools ⚒️</H2>
-<div align="center">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,php" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=vscode,github" />
-</div>
+
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+<br>
+<img src="https://skillicons.dev/icons?i=c,python,html,css,php" />
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,github" />
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=prussian&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
