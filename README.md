@@ -26,7 +26,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=blood-dark&card_width=800&card_height=180&fire=FFC92F&ring=9D6767" alt="GitHub Streak" /></a>
 </div>
 <br>
-<details open align="center">
+<details close align="center">
   <summary>📁 More Repositories</summary><br>
     
   [![TaxisOccitan Card](https://github-readme-stats.vercel.app/api/pin?username=prestigetonio&repo=TaxisOccitan&theme=algolia)](https://github.com/prestigetonio/TaxisOccitan)
