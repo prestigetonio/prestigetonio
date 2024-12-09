@@ -29,7 +29,7 @@
 <details close align="center">
   <summary>📁 More Repositories</summary><br>
     
-  [![TaxisOccitan Card](https://github-readme-stats.vercel.app/api/pin?username=prestigetonio&repo=TaxisOccitan&theme=algolia)](https://github.com/prestigetonio/TaxisOccitan)
+  [![TaxisOccitan Card](https://github-readme-stats.vercel.app/api/pin?username=prestigetonio&repo=TaxisOccitan&theme=algolia)](https://github.com/prestigetonio/TaxisOccita)
   
 </details>
 
