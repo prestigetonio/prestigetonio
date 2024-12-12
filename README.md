@@ -23,7 +23,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=blood-dark&card_width=800&card_height=180&fire=FFC92F&ring=9D6767" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=blood-dark&border_radius=5&border=EB5454&fire=EBD822" alt="GitHub Streak" /></a>
 </div>
 <br>
 <details close align="center">
