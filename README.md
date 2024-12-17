@@ -29,7 +29,6 @@
 <details close align="center">
   <summary>📁 More Repositories</summary><br>
     
-  [![TaxisOccitan Card](https://github-readme-stats.vercel.app/api/pin?username=prestigetonio&repo=TaxisOccitan&theme=algolia)](https://github.com/prestigetonio/TaxisOccitan)
   [![EPITECH_My_RPG Card](https://github-readme-stats.vercel.app/api/pin?username=prestigetonio&repo=EPITECH_My_RPG&theme=algolia)](https://github.com/prestigetonio/EPITECH_My_RPG)
   
 </details>
