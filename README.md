@@ -12,13 +12,28 @@
 
 
 <H2 align="center">⚒️ Languages - Tools ⚒️</H2>
+
 <div align="center">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="width: 30%;" />
-<br><br>
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,php" />
-<br>
-    <img src="https://skillicons.dev/icons?i=vscode,github" />
+    <br>
+  <table style="border: 2px solid red; border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td style="border: 2px solid red; padding: 0;">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJkM2tzcDBoZHdrM3hlYjhhbXgxMmhsaTNsNW9lc2doazY5dnR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ODsmtPmw8lLS1YvxK7/giphy.gif" width="120px" />
+      </td>
+      <td style="border: 2px solid red; padding: 0;" align="center">
+        <div>
+          <img src="https://skillicons.dev/icons?i=vscode,github" width="110px" /><br>
+          <img src="https://skillicons.dev/icons?i=c,python,html,css,php" width="280px" />
+        </div>
+      </td>
+      <td style="border: 2px solid red; padding: 0;">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJkM2tzcDBoZHdrM3hlYjhhbXgxMmhsaTNsNW9lc2doazY5dnR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ODsmtPmw8lLS1YvxK7/giphy.gif" width="120px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
