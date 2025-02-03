@@ -23,8 +23,8 @@
       </td>
       <td style="border: 2px solid red; padding: 0;" align="center">
         <div>
-          <img src="https://skillicons.dev/icons?i=vscode,github" width="110px" /><br>
-          <img src="https://skillicons.dev/icons?i=c,python,html,css,php,haskell,mysql" width="280px" />
+          <img src="https://skillicons.dev/icons?i=vscode,github" width="150px" /><br>
+          <img src="https://skillicons.dev/icons?i=c,python,html,css,php,haskell,mysql" width="500px" />
         </div>
       </td>
       <td style="border: 2px solid red; padding: 0;">
