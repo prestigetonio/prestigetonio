@@ -1,7 +1,7 @@
 <a href="https://github.com/prestigetonio"><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px"></a><a href="https://github.com/prestigetonio"><img align="right" width ="%" src="https://komarev.com/ghpvc/?username=prestigetonio&style=for-the-badge&color=blue"></a>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=impact&weight=700&size=55&duration=4000&pause=1000&color=D73C3C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=𝑯𝒆𝒍𝒍𝒐+𝑰'𝒎+𝑻𝒐𝒏𝒚" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=impact&weight=700&size=55&duration=4000&pause=1000&color=D73C3C&background=FFFFFF00&center=true&vCenter=true&width=435&lines=𝑯𝒆𝒍𝒍𝒐+𝑰'𝒎+𝑻𝒐𝒏𝒚" alt="Typing SVG" />
 </p>
 <p align="center"><strong>A passionate developer from France 🇫🇷</strong></p>
 <div align="center">
