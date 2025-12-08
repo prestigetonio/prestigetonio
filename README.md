@@ -19,7 +19,7 @@
     <tr>
       <td style="border: 2px solid red; padding: 0;">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJkM2tzcDBoZHdrM3hlYjhhbXgxMmhsaTNsNW9lc2doazY5dnR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ODsmtPmw8lLS1YvxK7/giphy.gif" width="120px" />
-        <img src="https://media.giphy.com/media/wgBCfaPpVNprG9g87x/giphy.gif?cid=ecf05e475dbb7wniljtcxgdbd2b4kmxz934b2b2r3ew8lyek&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130px" />
+        <!-- <img src="https://media.giphy.com/media/wgBCfaPpVNprG9g87x/giphy.gif?cid=ecf05e475dbb7wniljtcxgdbd2b4kmxz934b2b2r3ew8lyek&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130px" /> -->
       </td>
       <td style="border: 2px solid red; padding: 0;" align="center">
         <div>
@@ -29,7 +29,7 @@
       </td>
       <td style="border: 2px solid red; padding: 0;">
         <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJkM2tzcDBoZHdrM3hlYjhhbXgxMmhsaTNsNW9lc2doazY5dnR6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ODsmtPmw8lLS1YvxK7/giphy.gif" width="120px" />
-        <img src="https://media.giphy.com/media/wgBCfaPpVNprG9g87x/giphy.gif?cid=ecf05e475dbb7wniljtcxgdbd2b4kmxz934b2b2r3ew8lyek&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130px" />
+        <!-- <img src="https://media.giphy.com/media/wgBCfaPpVNprG9g87x/giphy.gif?cid=ecf05e475dbb7wniljtcxgdbd2b4kmxz934b2b2r3ew8lyek&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="130px" /> -->
       </td>
     </tr>
   </table>
