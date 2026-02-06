@@ -35,14 +35,6 @@
     </tr>
   </table>
 </div>
-
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-<br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prestigetonio&theme=blood-dark&border_radius=5&border=EB5454&fire=EBD822" alt="GitHub Streak" /></a>
-</div>
 <br>
 <details close align="center">
   <summary>📁 More Repositories</summary><br>
